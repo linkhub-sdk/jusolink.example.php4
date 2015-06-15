@@ -1,8 +1,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
-		<meta http-equiv="Content-Type" content="text/html; charset=euc-kr" />
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 		<link rel="stylesheet" type="text/css" href="../Example.css" media="screen" />
-		<title>주소검색 SDK PHP 4.X Example.</title>
+		<title>주소링크 SDK PHP 4.X Example.</title>
 		<script type="text/javascript">
 			function openNewWindow(window) {
 				window_width = 500;
